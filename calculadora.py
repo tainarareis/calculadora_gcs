@@ -2,5 +2,5 @@
 
 class Calculadora():
 
-  def soma(self, x, y):
-    return x + y
+  def multiplicacao(self, x, y):
+    return x * y
